@@ -16,7 +16,7 @@ For design and implementation details or make a contribution to the project, ple
 We use `setuptools` to install/uninstall the `parambench-train-compute` package:
 
 ```shell
-# Inside dir "param/train/compute/pytnon"
+# Inside dir "param/train/compute/python"
 
 # Install required dependencies
 > pip install -r requirements.txt
